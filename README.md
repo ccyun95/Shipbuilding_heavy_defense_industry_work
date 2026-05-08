@@ -1,2 +1,2 @@
-# Shipbuilding_hevy_defense_industry_work
+# Shipbuilding_heavy_defense_industry_work
 Analysis work for Shipbuilding_hevy_defense_industry
